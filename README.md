@@ -16,7 +16,7 @@
         <div class="social-icons">
             <a href="https://www.facebook.com/safraaluminium?mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a>
             <a href="https://instagram.com/safra_aluminium?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="https://https://www.linkedin.com/in/jean-paul-ayoub/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.linkedin.com/in/jean-paul-ayoub/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
         </div>
     </div>
 </body>
