@@ -1,5 +1,3 @@
-# Business Card
-
 <html>
 <head>
     <title>Profile Business Card</title>
