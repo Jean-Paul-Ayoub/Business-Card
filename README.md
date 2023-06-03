@@ -1,10 +1,10 @@
 <html>
-<head>
+ <head>
     <title>Profile Business Card</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-</head>
-<body>
+ </head>
+ <body>
     <div class="profile-card">
         <img src="Profile_Picture.jpg" alt="Profile Picture">
         <h1>Jean-Paul Ayoub</h1>
@@ -18,5 +18,5 @@
             <a href="https://instagram.com/safra_aluminium?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://www.linkedin.com/in/jean-paul-ayoub/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
     </div>
-</body>
+ </body>
 </html>
