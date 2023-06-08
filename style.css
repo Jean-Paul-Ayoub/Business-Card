@@ -29,16 +29,15 @@ body {
 }
 
 .profile-card .profile-picture {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  position: absolute;
-  top: 180px;
-  left: 50%;
-  transform: translateX(-50%);
-  overflow: hidden;
-  border: 5px solid #fff;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: fixed;
+    top: 130px;
+    left: calc(50% - 60px);
+    overflow: hidden;
+    border: 5px solid #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
 .profile-card .profile-picture img {
